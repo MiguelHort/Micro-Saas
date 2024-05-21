@@ -68,8 +68,8 @@ function Home() {
     }
 
     function Limpar() {
-        setHashtagPronta("Clique no botão para gerar a Legenda");
-        setLegendaPronta("Clique no botão para gerar as Hashtags");
+        setLegendaPronta("Clique no botão para gerar a Legenda");
+        setHashtagPronta("Clique no botão para gerar as Hashtags");
     }
 
 
